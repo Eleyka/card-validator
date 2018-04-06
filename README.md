@@ -1,5 +1,5 @@
 
-# "Validador de datos de tarjetas de crédito"
+# Validador de datos de tarjetas de crédito
 
 Es una librería que permite `validar una tarjeta de crédito`
 (usando algoritmo de Luhn), `fecha de vencimiento`, `código de verificación (cvv)` y `nombre completo` que aparece en la tarjeta.
