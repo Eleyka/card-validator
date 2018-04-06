@@ -1,7 +1,18 @@
-# Validador de datos de tarjetas de crédito
 
-**Validador de datos de tarjetas de crédito** es una librería que permite `validar una tarjeta de crédito`
+# "Validador de datos de tarjetas de crédito"
+
+Es una librería que permite `validar una tarjeta de crédito`
 (usando algoritmo de Luhn), `fecha de vencimiento`, `código de verificación (cvv)` y `nombre completo` que aparece en la tarjeta.
+
+![Vlidate-Card-Preview](https://user-images.githubusercontent.com/32303570/38402621-1f95b6f8-3923-11e8-9319-3b357f57390f.png)
+
+## Desarrollado para 
+
+[Laboratoria](http://laboratoria.la)
+
+## Objetivo
+
+  Desarrollar una librería para validar tarjetas de crédito
 
 ***
 ## Plan de trabajo
